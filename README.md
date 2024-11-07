@@ -16,5 +16,7 @@ Por sua vez o Gamma app foi utilizado para a criação do Ebook com a arte, inse
 ## 🚀 Resultados
 O e-book apresenta um conteúdo importante no dia-a-dia e com visual bonito, demonstrando receitas fáceis e rápidas para profissionais de T.I. que buscam se alimentar bem mesmo com uma agenda lotada.
 
+[LINK PARA O E-BOOK AQUI](https://gamma.app/docs/73g0qo1g42tntdh?following_id=maqekuidzcyzlj5&follow_on_start=true)
+
 ## 💭 Reflexão 
 A jornada criativa deste ebook foi inspiradora, pois permitiu explorar as diversas possibilidades oferecidas pelas ferramentas de IA.
